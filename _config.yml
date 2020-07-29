@@ -1,6 +1,6 @@
 # Site settings
 title: 布袋青年
-SEOTitle: 烽火戏诸诸诸侯
+SEOTitle: 布袋青年-电影与音乐的杂糅天地
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
 description: "生活很枯燥，那就去书籍与电影是世界寻找一份平静吧"
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: great-jin.github.io    #仓库名称
+  owner: GreatJin    #github用户名
+  admin: great-jin
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,15 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "三叶草国际语维基词典",
-        href: "https://github.com/klovien/klovien.github.io/wiki"
-    },{
-        title: "三叶草国际语互动社区",
-        href: "https://klovien.fandom.com/wiki/Klovien_Interlingua"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "知乎：烽火戏诸诸诸侯",
+        href: "https://www.zhihu.com/people/xiao-ming-92-43-49"
+    },
+    {
+        title: "豆瓣：烽火戏诸诸诸侯",
+        href: "https://www.douban.com/people/195636866/"
+    },
+    {
+        title: "Bilibili：烽火戏诸诸诸侯",
+        href: "https://space.bilibili.com/401747351"
     }
 ]
