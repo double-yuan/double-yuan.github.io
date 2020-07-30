@@ -7,7 +7,7 @@ description: "生活很枯燥，那就去书籍与电影是世界寻找一份平
 keyword: "与电影作伴，和生活相拥"
 url: "https://github.com/great-jin"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-#github_repo: "https://github.com/great-jin/great-jin.github.io.git" # you code repository
+github_repo: "https://github.com/great-jin/great-jin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
