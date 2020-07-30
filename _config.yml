@@ -80,6 +80,9 @@ kramdown:
 # Friends
 friends: [
     {
+        title: "Github：GreatJin",
+        href: "https://github.com/great-jin"
+    },{
         title: "知乎：烽火戏诸诸诸侯",
         href: "https://www.zhihu.com/people/xiao-ming-92-43-49"
     },{
@@ -88,8 +91,5 @@ friends: [
     },{
         title: "Bilibili：烽火戏诸诸诸侯",
         href: "https://space.bilibili.com/401747351"
-    },{
-        title: "Github：GreatJin",
-        href: "https://github.com/great-jin"
     }
 ]
