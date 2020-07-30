@@ -1,13 +1,13 @@
 # Site settings
-title: 布袋青年
-SEOTitle: 布袋青年-电影与音乐的杂糅天地
+title: 吾友巢谷
+SEOTitle: 吾友巢谷-分享所思所悟
 header-img: img/home-wallpage.jpg
-email: great__jin@163.com
-description: "生活很枯燥，那就去书籍与电影是世界寻找一份平静吧"
+email: doubleyuan_yan@163.com
+description: "过往不恋，当下不杂，未来不迎"
 keyword: "与电影作伴，和生活相拥"
-url: "https://github.com/great-jin"          # your host, for absolute URL
+url: "https://github.com/double-yuan"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/great-jin/great-jin.github.io.git" # you code repository
+github_repo: "https://github.com/double-yuan/double-yuan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,10 +18,8 @@ sidebar-avatar: /img/home-avatar.jpg      # use absolute URL, seeing it's used i
 
 # SNS settings
 RSS: false
-# zhihu_username:     烽火戏诸诸诸侯
-# github_username:    great-jin
-# twitter_username:   Great__Jin
-
+# zhihu_username:     吾友巢谷
+# github_username:    double-yuan
 
 
 
@@ -80,16 +78,10 @@ kramdown:
 # Friends
 friends: [
     {
-        title: "Github：GreatJin",
-        href: "https://github.com/great-jin"
+        title: "知乎：吾友巢谷",
+        href: "https://www.zhihu.com/people/feng-zi-15-14-34"
     },{
-        title: "知乎：烽火戏诸诸诸侯",
-        href: "https://www.zhihu.com/people/xiao-ming-92-43-49"
-    },{
-        title: "豆瓣：烽火戏诸诸诸侯",
-        href: "https://www.douban.com/people/195636866/"
-    },{
-        title: "Bilibili：烽火戏诸诸诸侯",
-        href: "https://space.bilibili.com/401747351"
+        title: "公众号：吾友巢谷",
+        href: "http://weixin.qq.com/r/hTiMlIbEBNt7rcL3922X"
     }
 ]
